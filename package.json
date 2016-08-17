@@ -1,5 +1,5 @@
 {
-  "name": "passport",
+  "name": "passport-test",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -8,5 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "passport": "^0.3.2"
+  }
 }
